@@ -14,6 +14,7 @@
 }
 .app-warm {
   background-image: url("./assets/warm-bg.jpg");
+  background-size: cover;
 }
 main {
   min-height: 100vh;
